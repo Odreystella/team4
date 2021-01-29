@@ -1,7 +1,7 @@
 import random
 
 
-answer = random.randint(1,100)
+answer = random.randint(1,101)
 chance = 3
 
 while chance > 0:
